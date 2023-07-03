@@ -1,0 +1,15 @@
+{
+    "readFromEmail": {
+        "host": "HOST",
+        "user": "EMAIL",
+        "password": "PASSWORD",
+        "port": 993
+    },
+    "sendFromEmail": {
+        "host": "HOST",
+        "user": "EMAIL",
+        "password": "PASSWORD",
+        "port": 465
+
+    }
+}

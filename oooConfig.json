@@ -1,0 +1,12 @@
+{
+    "status": false,
+    "subject": "Out of Office",
+    "message": "I'm out of the office today, but I'll be back tomorrow.",
+    "attachments": [],
+    "whitelist_status": false,
+    "whitelist": [],
+    "whitelist_rule": "",
+    "blacklist_status": false,
+    "blacklist": [],
+    "blacklist_rule": ""
+}
